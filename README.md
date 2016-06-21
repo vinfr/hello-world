@@ -1,2 +1,2 @@
 # hello-world
-My first program
+# This is only a test program
